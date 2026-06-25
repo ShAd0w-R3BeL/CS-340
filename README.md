@@ -1,5 +1,7 @@
 🐺 CS-340: Client/Server Development
+
 🌙 Building Database-Driven Foundations
+
 📌 Overview
 
 This repository contains the projects and assignments completed for CS-340: Client/Server Development at SNHU.
